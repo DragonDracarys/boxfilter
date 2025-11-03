@@ -1,7 +1,5 @@
 /******************************************************************************
 * boxfilter Algorithm
-* Author: Keplore
-* Copyright 2018-2028 Keplore, Inc. All Rights Reserved.
 * Date: 2018-01-14
 ******************************************************************************/
 #define _USE_MATH_DEFINES
